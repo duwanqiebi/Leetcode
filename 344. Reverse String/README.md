@@ -1,6 +1,6 @@
->Write a function that takes a string as input and returns the string reversed.
->**Example:**
->Given s = "hello", return "olleh".
+>Write a function that takes a string as input and returns the string reversed.</br>
+>**Example:**</br>
+>Given s = "hello", return "olleh".</br>
 
 ### 方法一
 
