@@ -1,5 +1,5 @@
->Write a function that takes a string as input and returns the string reversed.</br>
->**Example:**</br>
+>Write a function that takes a string as input and returns the string reversed.</br></br></br>
+>**Example:**</br></br>
 >Given s = "hello", return "olleh".</br>
 
 ### 方法一
